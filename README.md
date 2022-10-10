@@ -3,4 +3,4 @@
 
 ### membuat css dasar
 ini adalah tampilan nya
-![img]screenshoot5.png
+![img]screenshot.png
